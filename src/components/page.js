@@ -5,7 +5,7 @@ export class Page extends Component {
     super();
     this.state = {
       message: "Sarfaroj Gayen",
-      add: "Kolkata"
+      add: "Kolkata Sec V"
     };
   }
   render() {
